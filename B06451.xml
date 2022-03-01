@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The valorous acts performed at Gaunt, by the brave bonny lasse Mary Ambre; who in revenge of her lovers death, did play her part most gallantly. To the tune of, The blind beggar,.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660-1665?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06451</idno>
+            <idno type="STC">Wing V50A</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[14]</idno>
+            <idno type="EEBO-CITATION">99887539</idno>
+            <idno type="PROQUEST">ocm99887539</idno>
+            <idno type="VID">182272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182272)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The valorous acts performed at Gaunt, by the brave bonny lasse Mary Ambre; who in revenge of her lovers death, did play her part most gallantly. To the tune of, The blind beggar,.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Gibertson [sic] in Giltspur-street.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[between 1660-1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "When Captain couragious, whom deeth coul'd not ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182272:1" rendition="simple:additions"/>
+            <head>The valorous Acts performed at Gaunt,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the brave bonny Laſſe Mary Ambre; Who in revenge of her Lovers death, did play her part moſt gallantly.</head>
+            <opener>To the tune of, the Blind beggar,</opener>
+            <p>
+               <figure>
+                  <figDesc>soldiers armed with swords, pikes and shields</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>WHen Captain couragious, whom deeth could not daunt,</l>
+               <l>Had roundly beſiged the City of <hi>Gaunt,</hi>
+               </l>
+               <l>And manly they marched by two and by three,</l>
+               <l>But the formoſt in battell was <hi>mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus being inforced to fight with their foes.</l>
+               <l>On each ſide moſt fiercely they ſeemed to cloſe,</l>
+               <l>Each one fought for honour in every degrée,</l>
+               <l>But none ſo much won it as <hi>mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When brave Serjeant Major was ſlain in the fight,</l>
+               <l>Which was her own true Love, her joy and delight</l>
+               <l>She ſwore unrevenged his blood ſhould not be,</l>
+               <l>Was not this a brave bonny Laſſe, <hi>mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>She clothed her ſelfe from the top to the toe,</l>
+               <l>With Buffe of the braveſt moſt ſéemly to ſhow:</l>
+               <l>A fair ſhirt of Male over that ſlipped ſhe'</l>
+               <l>Was not this a brave bonny Laſſe, <hi>mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Helmet of proofe ſhe put on her head,</l>
+               <l>A ſtrong armed Sword ſhe girt on her ſide:</l>
+               <l>A faire goodly Gautlet on her right hand wore ſhe,</l>
+               <l>Was not this a brave bonny Laſſe, <hi>mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then took ſhe her Sword and her Target in hand;</l>
+               <l>And called all thoſe that would be of her Band,</l>
+               <l>To wait on her perſon ther came thouſands thrée</l>
+               <l>Was not this a brave bonny Laſſe, <hi>mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Before you ſhall periſh the worſt of you all,</l>
+               <l>Or come to any danger of enemies thrall:</l>
+               <l>This hand and this life of mine ſhall ſet you frée,</l>
+               <l>Was not this a brave bonny Laſſe, <hi>mary ambree;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Drums <hi>&amp;</hi> the Trumpets did ſound out alarme</l>
+               <l>And many a hundred did loſe leg and arme:</l>
+               <l>And many a thouſand ſhe brought on their knée,</l>
+               <l>Was not this a brave bonny Laſſe, <hi>mary Ambree;</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:182272:1"/>
+            <p>
+               <figure>
+                  <figDesc>two ladies, one dressed as a man, and one in formal dress</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>THe skie ſhe then filled with ſmoak of her ſhot</l>
+               <l>And her enimies bodies with bullets moſt hot</l>
+               <l>For one of her owne men a ſcore killed ſhe</l>
+               <l>Was not this a brave bonny Laſſe, <hi>Mary Ambree?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But then her falſe Gunner did ſpoyle her in fent.</l>
+               <l>Her Powder and Bullets away he had ſent:</l>
+               <l>And then with her weapon ſhe flaſht him in three.</l>
+               <l>Was not this a brave bonny Laſſe, <hi>Mary Ambree?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then took ſhe her Caſtle where ſhe did abide,</l>
+               <l>Her enimies beſiged on every ſide,</l>
+               <l>To beate down her Caſtle walles they did agree,</l>
+               <l>And all was to overcome <hi>Mary Ambree?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then took ſhe her Sword and Target in hand</l>
+               <l>And upon her brave Caſtle walls ſtoutly did ſtand,</l>
+               <l>So daring the Captains to match any three,</l>
+               <l>And what a brave Captaine was <hi>Mary Ambee</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At her then they ſmilled not thinking in heart,</l>
+               <l>That ſhe could have performed ſo valorous a part:</l>
+               <l>The one ſaid to the other we ſhortly ſhall ſee,</l>
+               <l>This gallant brave Captaine before us to flee.</l>
+            </lg>
+            <lg>
+               <l>Why, who doe you think me or take me to be,</l>
+               <l>Vnto theſe brave Souldiers ſo valient ſpake ſhe?</l>
+               <l>A Knight Sir of <hi>England</hi> and Captain quoth they</l>
+               <l>Whome ſhortly we meane to take priſoner away.</l>
+            </lg>
+            <lg>
+               <l>No Captain of <hi>England</hi> behould in your ſight,</l>
+               <l>Two breſt in on boſom and therefore no Knight:</l>
+               <l>No Knight Sir of <hi>England,</hi> nor Captain quoth ſhe,</l>
+               <l>But even a poore bonny Laſſe, <hi>Mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But art thou a woman, as thou doſt declare;</l>
+               <l>That haſt made us thus ſpend our armor in war,</l>
+               <l>The like in our times we never did ſee,</l>
+               <l>And therefore we'l honour brave <hi>Mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Prince of great <hi>Parma</hi> heard of her renown,</l>
+               <l>Who long had advanced for <hi>Englands</hi> faire Crown,</l>
+               <l>In token he ſent her a Glove and a Ring,</l>
+               <l>And ſaid ſhe ſhould be his Bride at his wedding.</l>
+            </lg>
+            <lg>
+               <l>Why ho doth he thinke me or take me to be,</l>
+               <l>Though he be a Prince, and of great dignity.</l>
+               <l>It ſhall neuer be ſaid in <hi>England</hi> ſo free,</l>
+               <l>That a ſtranger did marry with <hi>mary Ambree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then unto faire <hi>England</hi> ſhe back did returne,</l>
+               <l>Still holding the Foes of brave <hi>England</hi> in ſcorne,</l>
+               <l>In valour no woman was ever like ſhe,</l>
+               <l>Was not this a brave bonny Laſſe <hi>Mary Ambree?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In this womans praiſes, Ile here and my Son</l>
+               <l>Whoſe heart was approved in valour moſt
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Let all ſorts of people what ever they be</l>
+               <l>Sing forth the great valours of <hi>Mary Am<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Prnted for William Gibertſon in Giltſpur-ſtreet.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
